@@ -1,18 +1,18 @@
 {
   "version": 5,
   "users": [
-    {
-      "extensionId": "hmdgkpbchdegbhknmodcagkpnekcagjk",
-      "googleId": "109725672189351157103",
-      "email": "exec85@gmail.com",
-      "discordID": " "
-    },
-    {
-      "extensionId": "egcilaiennocopjhedfpacbmicepoopo",
-      "googleId": "115406895430658734938",
-      "email": "simon_schneider89@web.de",
-      "discordID": " "
-    },
+{
+  "extensionId": "hmdgkpbchdegbhknmodcagkpnekcagjk",
+  "googleId": "109725672189351157103",
+  "email": "exec85@gmail.com",
+  "discordID": " "
+},
+{
+  "extensionId": "egcilaiennocopjhedfpacbmicepoopo",
+  "googleId": "115406895430658734938",
+  "email": "simon_schneider89@web.de",
+  "discordID": " "
+},
 {
   "extensionId": "egcilaiennocopjhedfpacbmicepoopo",
   "googleId": "117632755974076192663",
@@ -132,6 +132,12 @@
   "googleId": "103778979230026432477",
   "email": "kovacevicbenjamin7@gmail.com",
   "discordID": "460930928483500058"
+},
+{
+  "extensionId": "egcilaiennocopjhedfpacbmicepoopo",
+  "googleId": "102546675480387216116",
+  "email": "lk.0612.bk@gmail.com",
+  "discordID": "347403327119556609"
 }
   ]
 }
